@@ -15,7 +15,7 @@ DESCRIPTION
      Looking for a co-op from fall 2027 to winter 2028, open to longer.
 ```
 
-Most of my code lives on [Codeberg](https://codeberg.org/gureetk); some of it is mirrored to GitHub.
+My code going forward will live on [Codeberg](https://codeberg.org/gureetk); most of it is mirrored to [Github](https://github.com/gureetk).
 
 **Projects**
 
