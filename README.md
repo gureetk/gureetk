@@ -15,7 +15,7 @@ DESCRIPTION
      Looking for a co-op from fall 2027 to winter 2028, open to longer.
 ```
 
-My code going forward will live on [Codeberg](https://codeberg.org/gureetk); most of it is mirrored to [Github](https://github.com/gureetk).
+My code lives on [Codeberg](https://codeberg.org/gureetk); alongside being mirrored or hosted on [Github](https://github.com/gureetk).
 
 **Projects**
 
@@ -28,4 +28,4 @@ My code going forward will live on [Codeberg](https://codeberg.org/gureetk); mos
 
 **Contact:** [hello@gureet.ca](mailto:hello@gureet.ca) · [gureet.ca](https://gureet.ca) · [LinkedIn](https://www.linkedin.com/in/gureetk)
 
-I sign my commits with the SSH key `SHA256:/X4a2o6s2JVYqz3o2pUTeYZvK8GtDCy8Ci2h52ZuQjk`, also listed on [gureet.ca](https://gureet.ca/#files).
+I sign my commits with SSH keys `SHA256:/X4a2o6s2JVYqz3o2pUTeYZvK8GtDCy8Ci2h52ZuQjk` or `SHA256:a0/xc5iKe0M0UJldzKn7mZzRuy9obPk4dBwJQcY7NYE`, also listed on [gureet.ca](https://gureet.ca/#files).
